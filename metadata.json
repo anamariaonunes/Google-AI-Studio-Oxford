@@ -1,0 +1,6 @@
+{
+  "name": "Meeting Prep Assistant",
+  "description": "Analyzes uploaded meeting materials (PDF, PPTX) to extract text and generate structured meeting intelligence using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
